@@ -12,9 +12,9 @@ AES指定一个FIPS核准的密码学算法用于安全点数据。
 
 美国政府（NSA）在2003年6月接收并宣布AES足够保证机密信息乃至绝密等级的安全。
 
-Rijndael的命名源自两位比利时的密码学家，Joan Daemen博士和Vincent Rijmen博士，在“比利时天主教鲁汶大学”电子工程系工作期间提出。
+Rijndael的命名源自两位比利时的密码学家，[Joan Daemen](https://en.wikipedia.org/wiki/Joan_Daemen)博士和[Vincent Rijmen](https://en.wikipedia.org/wiki/Vincent_Rijmen)博士，在“[比利时天主教鲁汶大学](https://www.kuleuven.be/kuleuven/)”电子工程系工作期间提出。
 
-Rijndael（AES）是免专利费的，并且创造者还在公共领域给出各种参考实现。
+[Rijndael（AES）](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)是免专利费的，并且创造者还在公共领域给出各种参考实现。
 
 ## AES加密解密
 
